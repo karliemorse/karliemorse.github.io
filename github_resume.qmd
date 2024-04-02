@@ -1,0 +1,56 @@
+---
+layout: cv
+
+---
+# Karlie Morse
+
+
+<a href="krosem7@gmail.com">krosem7@gmail.com</a>
+<div id="webaddress">
+</div>
+
+
+## Education
+__Bachelor of Science in Business Analytics, Finance Minor__
+
+__Brigham Young University-Idaho__
+
+* September 2021 - December 2024
+* 3.7 GPA
+* 14 credit hours per semester
+
+
+## Internships
+__Merchandising Analyst Intern |__
+__Pearland, Texas |__
+__July 2023 - August 2023__
+
+* Collaborated with merchandising department analysts to formulate projections for optimal product quantities. Participated in negotiation processes and observed deal-making with sellers
+* Concluded internship by delivering a comprehensive presentation on sizing requirements within the Buc-ee's T-shirt market. Elevated proficiency in Microsoft Excel in alignment with career objectives. Enhanced professionalism and office demeanor through hands-on experience
+
+
+### Job Experience
+
+__Spreadsheet Analysis Teacher's Assistant |__
+__BYU-I |__
+__Rexburg, Idaho |__
+__Sept 2023 - Current__
+
+* Demonstrate swift and efficient grading of student assignments for BA 215, a course centered around Spreadsheet Analysis for Business.
+The course emphasizes proficiency in Microsoft Excel, aiming to equip students with essential skills
+
+__Cashier |__
+__Buc-ee's LTD |__
+__Freeport, Texas |__
+__May 2022 - December 2024__
+
+* Displayed exceptional customer service skills, engaged with a diverse customer base and provided product recommendations, resolving customer issues
+* Collaborated with cross-functional teams to streamline communication and improve workflow
+* Managed incoming customer inquiries, processed sales transactions, and restocked merchandise, all while delivering exceptional customer service and achieving daily sales goals
+
+
+### Core Competencies
+* Microsoft Excel
+* MySQL and Python experience
+* Finance and Accounting literacy
+* Effective communicator
